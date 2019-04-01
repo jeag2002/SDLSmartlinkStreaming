@@ -8,6 +8,11 @@ Java 1.8.0_181 SDK
 Android Studio (Android v28 Oreo support)
 smartdevicelink:4.+
 
+PROJECTS:
+
+SDLDisplaySampleProjection
+SdlStreaming
+
 
 
  
